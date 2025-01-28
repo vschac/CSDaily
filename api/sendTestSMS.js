@@ -7,8 +7,8 @@ if (!getApps().length) {
   initializeApp()
 }
 
-const accountSid = process.env.TWILIO_ACCOUNT_SID
-const authToken = process.env.TWILIO_AUTH_TOKEN
+const accountSid = process.env.VITE_TWILIO_ACCOUNT_SID
+const authToken = process.env.VITE_TWILIO_AUTH_TOKEN
 const client = twilio(accountSid, authToken)
 
 export default async function handler(req, res) {

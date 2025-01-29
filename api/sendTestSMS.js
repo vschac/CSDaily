@@ -23,16 +23,34 @@ export default async function handler(req, res) {
     const auth = getAuth()
     await auth.getUser(userId)
 
-    // Send test message
-    await client.messages.create({
+    if (!client) {
+      throw new Error('Twilio client failed to initialize')
+    }
+
+
+    const message = await client.messages.create({
       body: 'This is a test message from CS Daily! Your daily CS concepts will be delivered to this number.',
-      to: phoneNumber,
+      //to: phoneNumber,
+      to: '+18777804236',
       from: process.env.TWILIO_PHONE_NUMBER
     })
 
     res.status(200).json({ success: true })
   } catch (error) {
-    console.error('Error sending test SMS:', error)
-    res.status(500).json({ error: 'Failed to send test message' })
+    console.error('Detailed error information:', {
+      errorCode: error.code,
+      errorStatus: error.status,
+      errorMessage: error.message,
+      moreInfo: error.moreInfo,
+      details: error.details
+    })
+
+    // Return more detailed error information
+    res.status(500).json({ 
+      error: error.message,
+      details: error.message,
+      code: error.code,
+      status: error.status
+    })
   }
 } 

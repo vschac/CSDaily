@@ -1,0 +1,197 @@
+fact_topic,fact_category
+Python,Languages
+JavaScript,Languages
+Java,Languages
+C++,Languages
+C#,Languages
+Go (Golang),Languages
+Rust,Languages
+Swift,Languages
+Kotlin,Languages
+PHP,Languages
+Ruby,Languages
+Perl,Languages
+R,Languages
+TypeScript,Languages
+SQL,Languages
+Bash/ZSH,Languages
+Recursion,Programming Concepts
+Object-Oriented Programming (OOP),Programming Concepts
+Functional Programming,Programming Concepts
+"Data Structures (Arrays, Lists, Trees, Graphs)",Programming Concepts
+"Algorithms (Sorting, Searching, Graph traversal)",Programming Concepts
+Big-O Notation,Programming Concepts
+Memory Management (Caching/Memoization),Programming Concepts
+Garbage Collection,Programming Concepts
+Encapsulation,Programming Concepts
+Abstraction,Programming Concepts
+Inheritance,Programming Concepts
+Polymorphism,Programming Concepts
+Closures,Programming Concepts
+Callbacks,Programming Concepts
+Asynchronous Programming,Programming Concepts
+Event Loops,Programming Concepts
+Multithreading,Programming Concepts
+Concurrency vs Parallelism,Programming Concepts
+Immutability,Programming Concepts
+Debugging Techniques,Programming Concepts
+Dependency injection,Programming Concepts
+Type Systems (Static vs Dynamic),Programming Concepts
+HTML,Web Dev
+CSS,Web Dev
+JavaScript (vanilla),Web Dev
+React,Web Dev
+"React hooks (useState, useEffect, useContext, useReducer)",Web Dev
+Angular,Web Dev
+Vue.js,Web Dev
+Svelte,Web Dev
+Next.js,Web Dev
+Gatsby,Web Dev
+Tailwind CSS,Web Dev
+Bootstrap,Web Dev
+Web Accessibility (ARIA),Web Dev
+Progressive Web Apps (PWAs),Web Dev
+WebSockets,Web Dev
+REST APIs,Web Dev
+GraphQL,Web Dev
+JSON,Web Dev
+CORS,Web Dev
+Server-Sent Events,Web Dev
+Node.js,BackEnd
+Express.js,Back End
+Flask,Back End
+Django,Back End
+Spring Boot,Back End
+ASP.NET,Back End
+Laravel,Back End
+FastAPI,Back End
+"SQL Databases (MySQL, PostgreSQL, SQLite)",Back End
+"NoSQL Databases (MongoDB, DynamoDB, CouchDB)",Back End
+Redis,Back End
+RabbitMQ,Back End
+Kafka,Back End
+Microservices Architecture,Back End
+"Authentication and Authorization (OAuth, JWT)",Back End
+API Design Principles,Back End
+Binary Trees,Data Structures and Algorithms
+AVL Trees,Data Structures and Algorithms
+Red-Black Trees,Data Structures and Algorithms
+Hash Tables,Data Structures and Algorithms
+Linked Lists,Data Structures and Algorithms
+Doubly Linked Lists,Data Structures and Algorithms
+"Graphs (Directed, Undirected, Weighted)",Data Structures and Algorithms
+BFS and DFS,Data Structures and Algorithms
+Dijkstra’s Algorithm,Data Structures and Algorithms
+Bellman-Ford Algorithm,Data Structures and Algorithms
+"Sorting Algorithms (QuickSort, MergeSort, HeapSort)",Data Structures and Algorithms
+"Searching Algorithms (Binary Search, Linear Search)",Data Structures and Algorithms
+Dynamic Programming,Data Structures and Algorithms
+Greedy Algorithms,Data Structures and Algorithms
+Divide and Conquer,Data Structures and Algorithms
+Neural Networks,AI/ML
+Decision Trees,AI/ML
+Support Vector Machines,AI/ML
+Linear Regression,AI/ML
+Logistic Regression,AI/ML
+Reinforcement Learning,AI/ML
+Gradient Descent,AI/ML
+Overfitting and Underfitting,AI/ML
+Natural Language Processing (NLP),AI/ML
+Image Processing (Convolutional Neural Networks),AI/ML
+Transfer Learning,AI/ML
+"Clustering Algorithms (K-Means, DBSCAN)",AI/ML
+Principal Component Analysis (PCA),AI/ML
+Supervised vs Unsupervised Learning,AI/ML
+Tensors/Tensorflow,AI/ML
+PyTorch,AI/ML
+Loss functions,AI/ML
+Optimizers,AI/ML
+"AWS (S3, EC2, Lambda)",Cloud Computing
+Google Cloud Platform (GCP),Cloud Computing
+Microsoft Azure,Cloud Computing
+Firebase,Cloud Computing
+Cloud Storage,Cloud Computing
+Docker,Cloud Computing
+Kubernetes,Cloud Computing
+CI/CD Pipelines,Cloud Computing
+Terraform,Cloud Computing
+Serverless Architecture,Cloud Computing
+"Encryption (Symmetric, Asymmetric)",Cybersecurity
+SSL/TLS,Cybersecurity
+Firewalls,Cybersecurity
+VPNs,Cybersecurity
+Penetration Testing,Cybersecurity
+Vulnerability Assessment,Cybersecurity
+SQL Injection,Cybersecurity
+Cross-Site Scripting (XSS),Cybersecurity
+Cross-Site Request Forgery (CSRF),Cybersecurity
+Public Key Infrastructure (PKI),Cybersecurity
+Git and GitHub,Tools/IDE
+GitLab,Tools/IDE
+VSCode,Tools/IDE
+IntelliJ IDEA,Tools/IDE
+PyCharm,Tools/IDE
+Eclipse,Tools/IDE
+NetBeans,Tools/IDE
+Postman,Tools/IDE
+Figma,Tools/IDE
+Notion,Tools/IDE
+Automata Theory,Theory
+Turing Machines,Theory
+Computability and Complexity,Theory
+NP-Completeness,Theory
+Finite State Machines,Theory
+Lambda Calculus,Theory
+P vs NP Problem,Theory
+Process Scheduling,Operating Systems
+Threads and Processes,Operating Systems
+Deadlocks,Operating Systems
+Semaphores and Mutexes,Operating Systems
+Paging and Segmentation,Operating Systems
+Virtual Memory,Operating Systems
+File Systems,Operating Systems
+Kernel Mode vs User Mode,Operating Systems
+Jenkins,DevOps
+CI/CD Workflows,DevOps
+Monitoring with Prometheus,DevOps
+Logging with ELK Stack,DevOps
+Ansible,DevOps
+Kubernetes Monitoring,DevOps
+Infrastructure as Code,DevOps
+Singleton,Design Patterns
+Factory Method,Design Patterns
+Builder,Design Patterns
+Observer,Design Patterns
+Strategy,Design Patterns
+Command,Design Patterns
+Adapter,Design Patterns
+Decorator,Design Patterns
+Composite,Design Patterns
+MVC/MVVM,Design Patterns
+Load Balancers,System Design
+"Caching Strategies (e.g., Redis, Memcached)",System Design
+Sharding and Replication,System Design
+CAP Theorem,System Design
+Database Partitioning,System Design
+CDN (Content Delivery Network),System Design
+Rate Limiting,System Design
+"Message Queues (Kafka, RabbitMQ)",System Design
+High Availability vs Fault Tolerance,System Design
+Designing Scalable APIs,System Design
+"Unit Testing (JUnit, Pytest)",Testing
+Integration Testing,Testing
+Test-driven Development (TDD),Testing
+Mocking and Stubbing,Testing
+Code Coverage Analysis,Testing
+Regression Testing,Testing
+Load and Performance Testing,Testing
+Blockchain Basics,Misc
+Quantum Computing,Misc
+"Internet Protocols (HTTP, HTTPS, TCP/IP, UDP)",Misc
+DNS,Misc
+Regex (Regular Expressions),Misc
+Compiler Design,Misc
+"Data Serialization (XML, YAML, Protobuf)",Misc
+"Agile Methodologies (Scrum, Kanban)",Misc
+"Testing (Unit, Integration, E2E)",Misc
+"IDE Extensions (e.g., Prettier, Live Server)",Misc
